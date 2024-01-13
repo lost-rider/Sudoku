@@ -8,3 +8,4 @@ Start solving sudoku puzzles here now!
 
 2. This app uses generative recursion and backtracking search. 
 
+Access the website at: https://lost-rider.github.io/Sudoku/
